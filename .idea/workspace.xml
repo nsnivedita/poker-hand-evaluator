@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d996c220-cb6f-43c3-8fe3-22448069715d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dK2NtZuY3lw3DKX3GXbP5DclPk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.PokerHands">
+    <configuration name="PokerHands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inclusivity.PokerHands" />
+      <module name="poker-hand-evaluator-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inclusivity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-hand-evaluator-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardTest.testGetSuits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-hand-evaluator-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.CardTest" />
+      <option name="METHOD_NAME" value="testGetSuits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poker-hand-evaluator-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.HandTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PokerHands" />
+        <item itemvalue="JUnit.CardTest" />
+        <item itemvalue="JUnit.HandTest" />
+        <item itemvalue="JUnit.CardTest.testGetSuits" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d996c220-cb6f-43c3-8fe3-22448069715d" name="Default Changelist" comment="" />
+      <created>1592159426680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592159426680</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="99" width="1166" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1592172051850">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="100" y="99" width="1166" height="538" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.738@0.0.1366.738" timestamp="1592172051850" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1592173122504">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592173122504" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1592173122502">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1592173122502" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1592173122501">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1592173122501" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1592173122502">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1592173122502" />
+    <state width="1324" height="220" key="GridCell.Tab.1.bottom" timestamp="1592167673302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="220" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1592167673302" />
+    <state width="1324" height="220" key="GridCell.Tab.1.center" timestamp="1592167673301">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="220" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1592167673301" />
+    <state width="1324" height="220" key="GridCell.Tab.1.left" timestamp="1592167673301">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="220" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1592167673301" />
+    <state width="1324" height="220" key="GridCell.Tab.1.right" timestamp="1592167673302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1324" height="220" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1592167673302" />
+    <state x="401" y="265" width="553" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592166525480">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="401" y="265" width="553" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1592166525480" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/inclusivity/Card.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
